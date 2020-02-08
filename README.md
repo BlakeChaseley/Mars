@@ -1,2 +1,0 @@
-# Mars
-Created with CodeSandbox
